@@ -163,7 +163,7 @@ def Scientific():
 
 
 
-    # GUI for the Scientific Calculator
+    # Scientific Calculator
     w1.title("Scientific Calculator")
     w1.geometry("+300+300")
     w1.resizable(width=False, height=False)
@@ -233,7 +233,7 @@ def Scientific():
 
 
 
-# Normal Calculator GUI
+# Normal Calc
 w=Tk()
 main_menu=Menu(w)
 w.config(menu=main_menu)
