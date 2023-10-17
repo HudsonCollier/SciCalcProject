@@ -14,7 +14,7 @@ def entryBox(k):
     entry_box.insert(END, k)  
 
 
-# evaluates the result
+# evaluates the 
 def Evaluate(k):
     s = input_var.get()
     try:
