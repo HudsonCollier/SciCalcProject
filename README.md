@@ -50,7 +50,4 @@ This project uses the following Python libraries:
 
 * Tkinter: The standard Python interface to the Tk GUI toolkit.
 
-## License
-This project is open-source and available under the MIT License.
-
 Please note that this README provides a high-level overview of your project. You can further enhance it by adding information about the installation process, screenshots, examples, or any specific instructions to help users make the most of your calculator application.
