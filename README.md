@@ -12,7 +12,7 @@ This project is a simple calculator program implemented using the Tkinter librar
 * Dependencies
 * Contributing
 * License
-* 
+  
 ## Project Overview
 This project is a Python application that provides both a standard calculator and a scientific calculator within a graphical user interface (GUI) created using Tkinter. The standard calculator includes basic arithmetic operations, while the scientific calculator extends the functionality with various mathematical and trigonometric functions.
 
@@ -41,7 +41,7 @@ This project is a Python application that provides both a standard calculator an
 1. Run the program.
 2. In the main window, click on the "View" menu and select "Scientific" to switch to the scientific calculator.
 3. Use the scientific calculator to perform advanced mathematical operations.
-## Normal Calculator
+### Normal Calculator
 1. Run the program.
 2. The standard calculator is the default view.
 3. Use the standard calculator to perform basic arithmetic operations.
