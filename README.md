@@ -4,15 +4,15 @@ Scientific and Normal Calculator
 This project is a simple calculator program implemented using the Tkinter library in Python. It includes both a standard calculator and a scientific calculator with additional functions. This README file will provide you with an overview of the project and explain how to use it.
 
 Table of Contents
-Project Overview
-Features
-Usage
-Scientific Calculator
-Normal Calculator
-Dependencies
-Contributing
-License
-Project Overview
+* Project Overview
+* Features
+* Usage
+* Scientific Calculator
+* Normal Calculator
+* Dependencies
+* Contributing
+* License
+* Project Overview
 This project is a Python application that provides both a standard calculator and a scientific calculator within a graphical user interface (GUI) created using Tkinter. The standard calculator includes basic arithmetic operations, while the scientific calculator extends the functionality with various mathematical and trigonometric functions.
 
 Features
