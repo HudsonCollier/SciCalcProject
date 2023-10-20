@@ -1,4 +1,4 @@
-# SciCalcProject
+# Sciientific Calculator
 
 Scientific and Normal Calculator
 This project is a simple calculator program implemented using the Tkinter library in Python. It includes both a standard calculator and a scientific calculator with additional functions. This README file will provide you with an overview of the project and explain how to use it.
